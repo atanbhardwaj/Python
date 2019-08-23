@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Aug  6 21:29:08 2019
-
-@author: atanb
-"""
 n=int(input("Enter the number of primes required \n"))
 i = 2
 print(i)
